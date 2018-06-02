@@ -1,0 +1,15 @@
+Part/Designator,Manufacture Part #,Quantity,Description,Links,Datasheets
+C1,CC0603KRX7R9BB104,1,Decoupling Cap; .1uF,http://www.mouser.com/Search/ProductDetail.aspx?R=CC0603KRX7R9BB104virtualkey60120000virtualkey603-CC603KRX7R9BB104,http://www.mouser.com/ds/2/447/Yageo_UPY-GP_NP0_16V-to-50V_9-358835.pdf
+C2,GRM188R6YA106MA73D,1,Decoupling Cap; 10uF,http://www.mouser.com/Search/ProductDetail.aspx?R=GRM188R6YA106MA73Dvirtualkey64800000virtualkey81-GRM188R6YA106MA3D,http://www.mouser.com/ds/2/281/GRM188R6YA106MA73-01-1064796.pdf
+C3,885012106022,1,UCAP 1uF,http://www.mouser.com/Search/ProductDetail.aspx?R=885012106022virtualkey51110000virtualkey710-885012106022,http://www.mouser.com/ds/2/445/885012106022-553988.pdf
+"C4,C5",CC0402JRNPO9BN100,2,Crystal Caps; 10pF,http://www.mouser.com/Search/ProductDetail.aspx?R=CC0402JRNPO9BN100virtualkey60120000virtualkey603-CC402JRNPO9BN100,http://www.mouser.com/ds/2/447/Yageo_UPY-GP_NP0_16V-to-50V_9-358835.pdf
+CON1,P125-1203A0BS116A2,1,DIP Yellow Male Header VERT,,https://statics3.seeedstudio.com/images/opl/datasheet/320020027.pdf
+D1-D40,MMSD4148,40,Diodes,http://www.mouser.com/Search/ProductDetail.aspx?R=MMSD4148virtualkey51210000virtualkey512-MMSD4148,http://www.mouser.com/ds/2/149/MMSD4148-889926.pdf
+U1,"IP4234CZ6,125",1,ESD Protection Module,http://www.mouser.com/Search/ProductDetail.aspx?R=IP4234CZ6%2c125virtualkey66840000virtualkey771-IP4234CZ6125,http://www.mouser.com/ds/2/302/IP4234CZ6-841262.pdf
+U2,ATMEGA32U4-AUR,1,Atmega micro controller,http://www.mouser.com/Search/ProductDetail.aspx?R=ATMEGA32U4-AURvirtualkey55660000virtualkey556-ATMEGA32U4-AUR,http://www.mouser.com/ds/2/268/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet-1065717.pdf
+P1,ZX62D-B-5P8(30),1,USB-B-Micro Jack,http://www.mouser.com/Search/ProductDetail.aspx?R=ZX62D-B-5P8(30)virtualkey64550000virtualkey798-ZX62D-B-5P830,http://www.mouser.com/ds/2/185/ZX_catalog-939768.pdf
+"R1,R2",RC0603JR-0722RL,2,USB Data Pull-Up Resistors,http://www.mouser.com/Search/ProductDetail.aspx?R=RC0603JR-0722RLvirtualkey57620000virtualkey603-RC0603JR-0722RL,http://www.mouser.com/ds/2/447/RC0603-272842.pdf
+"R3,R4",RC0603JR-0710KL,2,HWB Pull-Down and RST Pull-Up Resistors,http://www.mouser.com/Search/ProductDetail.aspx?R=RC0603JR-0710KLvirtualkey57620000virtualkey603-RC0603JR-0710KL,http://www.mouser.com/ds/2/447/RC0603-272842.pdf
+SW41,ADTSM62RVTR,1,Reset Switch,http://www.mouser.com/Search/ProductDetail.aspx?R=ADTSM62RVTRvirtualkey64200000virtualkey642-ADTSM62RVTR,http://www.mouser.com/ds/2/26/ADTS6-ADTSM-KTSC6-263747.pdf
+Y1,TSX-3225 16.0000MF09Z-AC3,1,Crystal,http://www.mouser.com/Search/ProductDetail.aspx?R=TSX-3225_16.0000MF09Z-AC3virtualkey64320000virtualkey732-TX325-16F09Z-AC3,http://www.mouser.com/ds/2/137/1721499-465440.pdf
+F1,0ZCJ0100FF2E,1,resettable fuse,http://www.mouser.com/ProductDetail/Bel-Fuse/0ZCJ0100FF2E/?qs=SRYZG9HaIQ16trCtSE8WyA%3D%3D,http://www.mouser.com/ds/2/643/0ZCJ-526721.pdf
